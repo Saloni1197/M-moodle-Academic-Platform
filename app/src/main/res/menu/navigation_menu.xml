@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/home"
+    android:title="Home"
+    android:icon="@drawable/ic_account_balance_black_24dp">
+</item>
+
+    <item
+        android:id="@+id/adds"
+        android:title="Add Students"
+        android:icon="@drawable/ic_settings_applications_black_24dp">
+    </item>
+
+    <item
+        android:id="@+id/sett"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings_applications_black_24dp">
+    </item>
+
+
+    <item
+        android:icon="@drawable/ic_lock_black_24dp"
+        android:id="@+id/logout"
+        android:title="Logout"
+        >
+</item>
+
+
+</menu>

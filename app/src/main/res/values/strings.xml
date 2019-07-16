@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">M-moodle</string>
+    <string name="Open">M-moodle</string>
+    <string name="Close">M-moodle</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="your_title">Moodle Login</string>
+    <string name="invalid_email">This email address is invalid</string>
+    <string name="invalid_password">Password is too short</string>
+    <string name="incorrect_password">Password is incorrect</string>
+    <string name="field_required">This field is required</string>
+    <string name="Name">Name</string>
+    <string name="Password">Password</string>
+    <string name="colon">:\u0020</string>
+</resources>
